@@ -1,7 +1,22 @@
 {
-    "dates": [
+    "users": [
         {
-            
+            "id": "0c56",
+            "name": "David Medina",
+            "email": "davidmedina@gmail.com",
+            "password": "DavidM123"
+        },
+        {
+            "id": "2dac",
+            "name": "Mariana Patiño",
+            "email": "marianap@gmail.com",
+            "password": "MarianaP123"
+        },
+        {
+            "id": "2058",
+            "name": "Pablo",
+            "email": "pablo@gmail.com",
+            "password": "Pablo456"
         }
     ]
 }
